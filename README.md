@@ -36,7 +36,7 @@ MERN Stack application for maintaining documents and adding comments within them
 
 1. Install this repository on your machine by downloading the zip file or running this command:
 ```
-git clone https://github.com/KaranJagtiani/Maintain-Documents-with-Comments-in-the-MERN-Stack.git
+https://github.com/nobieyyy/SecureDocumentSystem.git
 ```
 2. Install NPM packages for both, NodeJS & the React Application:
 ```
@@ -60,7 +60,7 @@ http://localhost:5000/
 ```
 3. To locally serve the React App, go to the 'my-app' directory and run:
 ```
-npm start
+yarn start
 ```
 
 ## Happy Coding!
